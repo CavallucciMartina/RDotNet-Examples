@@ -1,0 +1,14 @@
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.csprojAssemblyReference.cache
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.csproj.CoreCompileInputs.cache
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.exe.config
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.exe
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.pdb
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\DynamicInterop.dll
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.dll
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\DynamicInterop.xml
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.xml
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.csproj.CopyComplete
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.exe
+C:\Users\utente\source\repos\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.pdb
