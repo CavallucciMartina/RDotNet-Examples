@@ -1,2 +1,2 @@
 # RDotNet-Examples
-R statistic statistical functions called up C# via RDotNet
+R statistic functions called up C# via RDotNet
