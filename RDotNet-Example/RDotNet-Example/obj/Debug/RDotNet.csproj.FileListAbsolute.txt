@@ -1,0 +1,16 @@
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.exe.config
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.exe
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet-Example.pdb
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\DynamicInterop.dll
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.dll
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\DynamicInterop.xml
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.xml
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\bin\Debug\RDotNet.NativeLibrary.xml
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet.csproj.CopyComplete
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.exe
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet-Example.pdb
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet.Form1.resources
+C:\Users\utente\Desktop\doc_Martina\RDotNet\RDotNet-Examples\RDotNet-Example\RDotNet-Example\obj\Debug\RDotNet.csproj.GenerateResource.cache
